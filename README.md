@@ -1,2 +1,2 @@
-# conformal-confidence-intervals
-Conformal Prediction Intervals
+# conformal-confidence-interval
+Conformal Prediction Interval
